@@ -1,0 +1,1 @@
+Estou gostando muito do curso, principalmente nessa parte do git, pois tinha algumas dúvidas no uso dos comandos. Que foram tiradas com a explicação e os exemplos.
